@@ -11,4 +11,3 @@ Write a Go program that:
 3. Combines all partial sums to return the total sum.
 
 Note: Solving this using channels is encouraged and considered a plus, as it demonstrates idiomatic use of Go’s concurrency model.
-
