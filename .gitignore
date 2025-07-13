@@ -30,3 +30,7 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+# Public keys
+*.pub
+g2i
+.DS_Store
